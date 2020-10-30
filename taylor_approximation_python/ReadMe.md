@@ -1,3 +1,3 @@
-## Example: Taylor Approximation of COS() function
+## Example: Taylor Approximation of cos function
 
-![](results/cos_result.mov)
+![](results/cos_result.gif)
