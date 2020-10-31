@@ -4,6 +4,10 @@ The Taylor series of a real or complex-values function f(x) that is infinitely d
 
 <p>f(a) + <sup>f'(a)</sup>&frasl;<sub>1!</sub>(x-a)</p>
 
+```math
+SE = \frac{\sigma}{\sqrt{n}}
+```
+
 Let, f(x) = cos(x) at x = 0, f(0) = cos(0) = 1
 
 The derivatives of f(x) are,
