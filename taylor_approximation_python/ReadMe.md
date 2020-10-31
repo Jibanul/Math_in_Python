@@ -2,7 +2,7 @@
 
 The Taylor series of a real or complex-values function f(x) that is infinitely differentialble at a real complex number a is the power series
 
-f(a) + \frac{f'(a)}{2}
+<p>f(a) + \frac{f'(a)}{2}</p>
 
 Let, f(x) = cos(x) at x = 0, f(0) = cos(0) = 1
 
