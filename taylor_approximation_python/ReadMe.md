@@ -7,13 +7,15 @@ The Taylor series of a real or complex-values function f(x) that is infinitely d
 Let, f(x) = cos(x) at x = 0, f(0) = cos(0) = 1
 
 The derivatives of f(x) are,
-''' math
+
 <p>f'(x) = -sin(x) &#8658; f'(0) = 0</p>
 <p>f''(x) = -cos(x) &#8658; f''(0) = -1</p>
 <p>f'''(x) = sin(x) &#8658; f'''(0) = 0</p>
 <p>f''''(x) = cos(x) &#8658; f''''(0) = 1</p>
-'''
 
+Therefore, the taylor series of cos(x) is
+
+<img src="http://latex.codecogs.com/svg.latex?f(x)&space;=&space;1&space;-&space;\frac{x^{2}}{2!}&space;&plus;&space;\frac{x^{4}}{4!}&space;-&space;...&space;=&space;\sum_{n=0}^{\infty}&space;(-1)^{n}&space;\frac{x^{2n}}{(2n)!}" title="http://latex.codecogs.com/svg.latex?f(x) = 1 - \frac{x^{2}}{2!} + \frac{x^{4}}{4!} - ... = \sum_{n=0}^{\infty} (-1)^{n} \frac{x^{2n}}{(2n)!}" />
 
 
 ![](results/cos_result.gif)
