@@ -8,13 +8,13 @@ Let, f(x) = cos(x) at x = 0, f(0) = cos(0) = 1
 
 The derivatives of f(x) are,
 
-<img src="http://latex.codecogs.com/svg.latex?f^{'}(x)&space;=&space;cos(x)&space;\Rightarrow&space;f(0)&space;=&space;1" title="http://latex.codecogs.com/svg.latex?f^{'}(x) = -sin(x) \Rightarrow f(0) = 0" />
+<img src="http://latex.codecogs.com/svg.latex?f^{'}(x)&space;=&space;-sin(x)&space;\Rightarrow&space;f(0)&space;=&space;0" title="http://latex.codecogs.com/svg.latex?f^{'}(x) = -sin(x) \Rightarrow f(0) = 0" />
 
-<img src="http://latex.codecogs.com/svg.latex?f^{'}(x)&space;=&space;cos(x)&space;\Rightarrow&space;f(0)&space;=&space;1" title="http://latex.codecogs.com/svg.latex?f^{''}(x) = -cos(x) \Rightarrow f(0) = -1" />
+<img src="http://latex.codecogs.com/svg.latex?f^{''}(x)&space;=&space;-cos(x)&space;\Rightarrow&space;f(0)&space;=&space;-1" title="http://latex.codecogs.com/svg.latex?f^{''}(x) = -cos(x) \Rightarrow f(0) = -1" />
 
-<img src="http://latex.codecogs.com/svg.latex?f^{'}(x)&space;=&space;cos(x)&space;\Rightarrow&space;f(0)&space;=&space;1" title="http://latex.codecogs.com/svg.latex?f^{'''}(x) = sin(x) \Rightarrow f(0) = 0" />
+<img src="http://latex.codecogs.com/svg.latex?f^{'''}(x)&space;=&space;sin(x)&space;\Rightarrow&space;f(0)&space;=&space;0" title="http://latex.codecogs.com/svg.latex?f^{'''}(x) = sin(x) \Rightarrow f(0) = 0" />
 
-<img src="http://latex.codecogs.com/svg.latex?f^{'}(x)&space;=&space;cos(x)&space;\Rightarrow&space;f(0)&space;=&space;1" title="http://latex.codecogs.com/svg.latex?f^{'''}(x) = cos(x) \Rightarrow f(0) = 1" />
+<img src="http://latex.codecogs.com/svg.latex?f^{'''''}(x)&space;=&space;cos(x)&space;\Rightarrow&space;f(0)&space;=&space;1" title="http://latex.codecogs.com/svg.latex?f^{''''}(x) = cos(x) \Rightarrow f(0) = 1" />
 
 The cycle repeats itself.
 
