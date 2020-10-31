@@ -1,13 +1,17 @@
 ## Example: Taylor Approximation of cos function
 
-Let, f(x) = cos(x) at x = 0
+The Taylor series of a real or complex-values function f(x) that is infinitely differentialble at a real complex number a is the power series
+
+f(a) + \frac{f'(a)}{2}
+
+Let, f(x) = cos(x) at x = 0, f(0) = cos(0) = 1
 
 The derivatives of f(x) are,
-<p>f^'(x) = cos(x) &#8658; f(0) = cos</p>
+<p>f'(x) = -sin(x) &#8658; f'(0) = 0</p>
+<p>f''(x) = -cos(x) &#8658; f''(0) = -1</p>
+<p>f'''(x) = sin(x) &#8658; f'''(0) = 0</p>
+<p>f''''(x) = cos(x) &#8658; f''''(0) = 1</p>
 
 
-<p>I will display &#8658;</p>
-
-h<sub>&theta;</sub>(x) = &theta;<sub>o</sub> x + &theta;<sub>1</sub>x
 
 ![](results/cos_result.gif)
