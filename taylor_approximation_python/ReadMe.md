@@ -8,6 +8,8 @@ The Taylor series of a real or complex-values function f(x) that is infinitely d
 SE = \frac{\sigma}{\sqrt{n}}
 ```
 
+<img src="https://latex.codecogs.com/svg.latex?\Large&space;x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}" title="\Large x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}" />
+
 Let, f(x) = cos(x) at x = 0, f(0) = cos(0) = 1
 
 The derivatives of f(x) are,
