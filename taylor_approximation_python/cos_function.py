@@ -12,10 +12,10 @@ def taylor_approx(n):
         pl.plot(x, approx)
         pl.ylim(-1.7,1.7)
         pl.legend(('cos() function', 'Taylor Approximation'), loc = 'upper right')
-        plt.text(x = -8, y = 1.25, s = "n = " + str(i), fontsize=15)
+        pl.text(x = -8, y = 1.25, s = "n = " + str(i), fontsize=15)
         display.clear_output(wait=True)
         display.display(pl.gcf())
-        plt.clf()
+        pl.clf()
         time.sleep(1.0)        # pause 1 sec before ploting the next curve
 
 # call the function
