@@ -7,10 +7,12 @@ The Taylor series of a real or complex-values function f(x) that is infinitely d
 Let, f(x) = cos(x) at x = 0, f(0) = cos(0) = 1
 
 The derivatives of f(x) are,
+''' math
 <p>f'(x) = -sin(x) &#8658; f'(0) = 0</p>
 <p>f''(x) = -cos(x) &#8658; f''(0) = -1</p>
 <p>f'''(x) = sin(x) &#8658; f'''(0) = 0</p>
 <p>f''''(x) = cos(x) &#8658; f''''(0) = 1</p>
+'''
 
 
 
