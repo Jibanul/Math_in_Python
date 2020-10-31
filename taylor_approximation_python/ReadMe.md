@@ -8,6 +8,8 @@ Let, f(x) = cos(x) at x = 0, f(0) = cos(0) = 1
 
 The derivatives of f(x) are,
 
+<img src="http://latex.codecogs.com/svg.latex?f^{'}(x)&space;=&space;cos(x)&space;\Rightarrow&space;f(0)&space;=&space;1f^{''}(x)&space;=&space;-sin(x)&space;\Rightarrow&space;" title="http://latex.codecogs.com/svg.latex?f^{'}(x) = cos(x) \Rightarrow f(0) = 1f^{''}(x) = -sin(x) \Rightarrow " />
+
 <p>f'(x) = -sin(x) &#8658; f'(0) = 0</p>
 <p>f''(x) = -cos(x) &#8658; f''(0) = -1</p>
 <p>f'''(x) = sin(x) &#8658; f'''(0) = 0</p>
