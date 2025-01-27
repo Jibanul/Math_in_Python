@@ -42,8 +42,8 @@ This will generate a plot showing the synthetic data and the least squares fit, 
 This code provides a simple example of **Least Squares Approximation** and helps visualize how well the method can fit a linear model to noisy data.
 
 ## Output
-  ```bash
-  Intercept: 2.0094565324824653, Slope: 3.0021783181293615
+     ```bash
+     Intercept: 2.0094565324824653, Slope: 3.0021783181293615
 
 ![Linear Regression Plot](figs/Figure_1.png)
 
